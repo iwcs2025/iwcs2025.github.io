@@ -1,5 +1,5 @@
 ---
-title: Conference 2025
+title: IWCS 2025
 ---
 
 Under construction
