@@ -22,6 +22,6 @@ News and Updates:
 * **December 13th:** [First Call for Workshops](workshops.md) 
 
 
+<br>
 
-
-<img src="hhu-logo.png" alt="HHU Logo" style="max-width: 50%; height: auto;">
+<img src="hhu-logo.png" alt="HHU Logo" style="max-width: 45%; height: auto; display: block; margin-left: auto">
