@@ -2,6 +2,26 @@
 title: IWCS 2025
 ---
 
-The 16th International Conference on Computational Semantics will take place in Düsseldorf, Germany, at <a href="https://www.hdu.hhu.de/en/" target="_blank" rel="noopener noreferrer">Haus der Universität</a> from the 22th to the 24th of September 2025 (workshops will be held on the 24th).
+The 16th International Conference on Computational Semantics (IWCS) will be organized by Heinrich Heine University (HHU) and will take place at Düsseldorf, Germany from 22 to 24 September 2025.
+
+IWCS is a biennial conference on computational semantics. The conference is endorsed by SIGSEM, the ACL Special Interest Group on Computational Semantics. The aim of IWCS is to bring together researchers interested in any aspects of the computation, annotation, extraction, representation, and learning of meaning in natural language, whether this is from a lexical or structural semantic perspective. IWCS embraces both symbolic and machine learning approaches to computational semantics, and everything in between. 
+
+<br>
+
+Important Dates:
+------
+* **Januray 31st:** Workshop Proposal Submission Deadline
+* **September 22-23:** Main Conference
+* **September 24th:** Workshops
+
+<br>
+
+
+News and Updates:
+------
+* **December 13th:** [First Call for Workshops](workshops.md) 
+
+
+
 
 <img src="hhu-logo.png" alt="HHU Logo" style="max-width: 50%; height: auto;">
