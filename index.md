@@ -10,18 +10,22 @@ IWCS is a biennial conference on computational semantics. The conference is endo
 
 Important Dates:
 ------
-* ~~**Januray 31, 2025:** Workshop Proposal Submission Deadline~~
-* **September 22–23, 2025:** Main Conference
-* **September 24, 2025:** Workshops
+* ~~**31 Januray 2025:** Workshop Proposal Submission Deadline~~
+* **6 June 2025:** Main Conference
+* **1 August 2025:** Notification of Acceptance
+* **22 August 2025:** Camera-Ready Due
+* **22-23 September 2025:** Main Conference
+* **24 September 2025:** Workshops
 
 <br>
 
 
 News and Updates:
 ------
-* **December 13, 2024:** First Call for Workshops 
-* **January 10, 2025:** Second Call for Workshops
-* **February 7, 2025:** [List of Accepted Workshops](workshops.md)
+* **13 December 2024:** First Call for Workshops 
+* **10 January 2025:** Second Call for Workshops
+* **7 February 2025:** [List of Accepted Workshops](workshops.md)
+* **14 February 2025:** [First Call for Papers](call_for_papers.md)
 
 
 <br>
