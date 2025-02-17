@@ -3,12 +3,12 @@ Organizing Committee
 
 Local chairs: 
 ----
+* Chen Long
+* Rafael Ehren
 * Kilian Evang
 * Laura Kallmeyer
 * Rainer Osswald
 * Christian Wurm
-* Chen Long
-* Rafael Ehren
 * Deniz Ekin Yavaş
 
 <br>
