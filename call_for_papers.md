@@ -30,6 +30,8 @@ We invite paper submissions in all areas of computational semantics, in other wo
 - applications of computational semantics
 
 <br>
+<br>
+
 Submission Information:
 ---------------
 
@@ -40,6 +42,7 @@ Long papers should describe original research and must not exceed 8 pages. Short
 Submissions should be fully anonymous to ensure double-blind reviewing.
 
 <br>
+
 ### Style Files:
 
 IWCS 2025 papers should be formatted following the common two-column structure as used by IWCS 2021 (borrowed from ACL 2021). Please use these specific style-files or the Overleaf template.
@@ -49,6 +52,7 @@ Style files: <a href="https://iwcs2021.github.io/download/iwcs2021-templates.zip
 Overleaf template: <a href="https://www.overleaf.com/latex/templates/instructions-for-iwcs-2021-proceedings/fpnsyxqqpfbw">https://www.overleaf.com/latex/templates/instructions-for-iwcs-2021-proceedings/fpnsyxqqpfbw</a> 
 
 <br>
+
 ### Submitting:
 
 Papers should be submitted in PDF format.
@@ -58,19 +62,22 @@ Submission link: <a href="https://openreview.net/group?id=IWCS/2025/Conference">
 Please contact the program chairs if you have problems using OpenReview.
 
 <br>
+
 ### No Anonymity Period:
 
 IWCS 2025 does not have an anonymity period. However, we ask you to be reasonable and not publicly advertise your preprint during (or right before) review.
 
 <br>
+
 ### Double Submission Policy:
 
 Papers that have been or will be submitted to other meetings or publications must indicate this at submission time. Authors of papers accepted for presentation at IWCS 2025 must notify the program chairs by the camera-ready deadline as to whether the paper will be presented. All accepted papers must be presented at the conference to appear in the proceedings. We will not accept for publication or presentation papers that overlap significantly in content or results with papers that will be (or have been) published elsewhere.
+
+<br>
 <br>
 
 Important Dates:
 ---------------
-
 
 All dates are anywhere on earth.
 
