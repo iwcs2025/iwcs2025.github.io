@@ -27,4 +27,5 @@ Workshops
 
 ### ISA-21, The 21st Joint ACL - ISO Workshop on Interoperable Semantic Annotation 
 **Organizers:** Harry Bunt, Nancy Ide, Kiyong Lee, Volha Petukhova, James Pustejovsky, Laurent Romary
+
 **Website:** <a href="https://sigsem.uvt.nl/isa21/">https://sigsem.uvt.nl/isa21/</a>
