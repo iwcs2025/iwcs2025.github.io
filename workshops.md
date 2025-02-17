@@ -5,7 +5,8 @@ Workshops
 
 ### Bridges and Gaps between Formal and Computational Linguistics (BriGap2)
 **Organizers:** Timothée Bernard, Timothee Mickus, Grégoire Winterstein
-**Website:** https://brigap-workshop.github.io/
+**Website:** <a href="https://brigap-workshop.github.io/">https://brigap-workshop.github.io/</a>
+
 
 <br>
 
@@ -26,4 +27,4 @@ Workshops
 
 ### ISA-21, The 21st Joint ACL - ISO Workshop on Interoperable Semantic Annotation 
 **Organizers:** Harry Bunt, Nancy Ide, Kiyong Lee, Volha Petukhova, James Pustejovsky, Laurent Romary
-**Website:** https://sigsem.uvt.nl/isa21/
+**Website:** <a href="https://sigsem.uvt.nl/isa21/">https://sigsem.uvt.nl/isa21/</a>
