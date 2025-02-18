@@ -10,8 +10,6 @@ IWCS is a biennial conference on computational semantics. The conference is endo
 <img src="hhu-logo.png" alt="HHU Logo" style="max-width: 36%; height: auto; display: block; margin-left: auto">
 
 
-<br>
-
 Important Dates:
 ------
 * ~~**31 Januray 2025:** Workshop Proposal Submission Deadline~~
