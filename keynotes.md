@@ -32,7 +32,8 @@ Institute for AI.
 
 <br>
 
-**Denis Paperno** (Utrecht University)
+Denis Paperno (Utrecht University)
+---
 
 
 
