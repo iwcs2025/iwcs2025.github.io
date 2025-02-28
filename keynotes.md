@@ -7,7 +7,6 @@ Oana-Maria Camburu (University College London)
 ----
 
 <img style="display: block; margin: auto; max-width: 35%;" src="photos/OMCamburu.png"/>
-
 Oana-Maria Camburu is a Principal Research Fellow in the Department of Computer Science at the University College London, holding an Early Career Leverhulme Fellowship. Prior to this, Oana was a postdoc in the Department of Computer Science at the University of Oxford, from where she also obtained her PhD in "Explaining Deep Neural Networks". Her main research interests lie in explainability for deep learning models, with applications in natural language processing and vision-language tasks, for which she received several fellowships and grants.
 
 
@@ -17,7 +16,6 @@ Alexander Koller (Saarland University)
 ----
 
 <img style="display: block; margin: auto; max-width: 35%;" src="photos/koller-small.jpeg"/>
-
 Alexander Koller is a Professor of Computational Linguistics at
 Saarland University in Saarbrücken, Germany. His research interests
 include planning and reasoning with LLMs, syntactic and semantic
