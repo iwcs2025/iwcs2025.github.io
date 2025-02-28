@@ -16,7 +16,7 @@ Oana-Maria Camburu is a Principal Research Fellow in the Department of Computer 
 Alexander Koller (Saarland University)
 ----
 
-<!-- <img style="display: block; margin: auto;" src="photos/koller-small.jpeg"/> -->
+<img style="display: block; margin: auto; max-width: 41%;" src="photos/koller-small.jpeg"/>
 
 Alexander Koller is a Professor of Computational Linguistics at
 Saarland University in Saarbrücken, Germany. His research interests
