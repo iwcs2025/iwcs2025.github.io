@@ -38,7 +38,11 @@ Institute for AI.
 Denis Paperno (Utrecht University)
 ---
 
+<div>
+<img style="display: block;margin: 25px;max-width: 30%;" src="photos/denis_on_green.jpeg" align="left">
 
+Denis Paperno is assistant professor of computational linguistics at Utrecht University. He received a PhD in Linguistics from the University of California Los Angeles, and subsequently worked at the University of Trento (CLIC lab, Rovereto) as a postdoc and at the Loria lab (Nancy) as a CNRS researcher. Denis has published extensively in the fields of semantics, language model evaluation, and vector space representations of meaning. His research contributions include work on compositionality in computational models of semantics, visual grounding, and representation probing.
+</div>
 
 
 
