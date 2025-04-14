@@ -6,7 +6,6 @@ Keynotes
 Oana-Maria Camburu (University College London)
 ----
 <img style="display: block;margin: 25px;max-width: 30%;" src="photos/OMCamburu.png" align="left">
-<br>
 
 Oana-Maria Camburu is a Principal Research Fellow in the Department of Computer Science at the University College London, holding an Early Career Leverhulme Fellowship. Prior to this, Oana was a postdoc in the Department of Computer Science at the University of Oxford, from where she also obtained her PhD in "Explaining Deep Neural Networks". Her main research interests lie in explainability for deep learning models, with applications in natural language processing and vision-language tasks, for which she received several fellowships and grants.
 
@@ -46,6 +45,11 @@ Denis Paperno (Utrecht University)
 
 Denis Paperno is assistant professor of computational linguistics at Utrecht University. He received a PhD in Linguistics from the University of California Los Angeles, and subsequently worked at the University of Trento (CLIC lab, Rovereto) as a postdoc and at the Loria lab (Nancy) as a CNRS researcher. Denis has published extensively in the fields of semantics, language model evaluation, and vector space representations of meaning. His research contributions include work on compositionality in computational models of semantics, visual grounding, and representation probing.
 </div>
+
+
+<br>
+<br>
+<br>
 
 
 
