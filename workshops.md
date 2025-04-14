@@ -21,6 +21,9 @@ Workshops
 ### The Second International Workshop on Construction Grammars and Natural Language Processing (CxGs+NLP 2025)
 **Organizers:** Claire Bonial, Melissa Torgbi, Leonie Weissweiler, Austin Blodgett, Katrien Beuls, Paul Van Eecke, Harish Tayyar Madabush
 
+**Website:** <a href="https://sites.google.com/view/2ndcxgsnlpworkshop/home">https://sites.google.com/view/2ndcxgsnlpworkshop/home</a>
+
+
 <br>
 
 ### The Second Workshop on Multimodal Semantic Representations (MMSR II)  
