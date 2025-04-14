@@ -14,6 +14,8 @@ Workshops
 ### Semantics for Interdisciplinary Research
 **Organizers:** Maxime Amblard
 
+**Website:** <a href="https://team.inria.fr/semagramme/first-workshop-on-semantics-for-interdisciplinary-research/">https://team.inria.fr/semagramme/first-workshop-on-semantics-for-interdisciplinary-research/</a>
+
 <br>
 
 ### The Second International Workshop on Construction Grammars and Natural Language Processing (CxGs+NLP 2025)
@@ -23,6 +25,8 @@ Workshops
 
 ### The Second Workshop on Multimodal Semantic Representations (MMSR II)  
 **Organizers:** Richard Brutti, Lucia Donatelli, Nikhil Krishnaswamy, Kenneth Lai, James Pustejovsky
+
+**Website:** <a href="https://mmsr-workshop.github.io/">https://mmsr-workshop.github.io/</a>
 
 <br>
 
