@@ -28,6 +28,8 @@ News and Updates:
 * **10 January 2025:** Second Call for Workshops
 * **7 February 2025:** [List of Accepted Workshops](workshops.md)
 * **14 February 2025:** [First Call for Papers](call_for_papers.md)
+* **15 April 2025:** [Second Call for Papers](call_for_papers.md)
+* **2 June 2025:** Deadline Extended to 13 June
 
 
 <!-- <br> -->

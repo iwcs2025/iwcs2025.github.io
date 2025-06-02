@@ -69,7 +69,7 @@ Important Dates:
 
 All dates are anywhere on earth.
 
-- **Paper submission:** 06 June 2025
-- **Notification of acceptance:** 01 August 2025
+- **Paper submission:** ~~6 June 2025~~ 13 June 2025
+- **Notification of acceptance:** 1 August 2025
 - **Camera-ready due:** 22 August 2025
 
