@@ -3,11 +3,11 @@ Keynotes
 
 <br>
 
-Oana-Maria Camburu (University College London)
+Oana-Maria Camburu (Imperial College London)
 ----
 <img style="display: block;margin: 25px;max-width: 30%;" src="photos/OMCamburu.png" align="left">
 
-Oana-Maria Camburu is a Principal Research Fellow in the Department of Computer Science at the University College London, holding an Early Career Leverhulme Fellowship. Prior to this, Oana was a postdoc in the Department of Computer Science at the University of Oxford, from where she also obtained her PhD in "Explaining Deep Neural Networks". Her main research interests lie in explainability for deep learning models, with applications in natural language processing and vision-language tasks, for which she received several fellowships and grants.
+Oana-Maria Camburu is an Assistant Professor in the Department of Computing at Imperial College London. Prior to that, she was a Principal Research Fellow in the Department of Computer Science at the University College London, holding an Early Career Leverhulme Fellowship. Oana was also a postdoc at the University of Oxford, from where she obtained her PhD in "Explaining Deep Neural Networks". Her main research interests lie in explainability for deep learning models and AI safety and alignment. 
 
 
 <br>
