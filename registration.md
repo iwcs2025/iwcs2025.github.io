@@ -1,5 +1,7 @@
 <h2>Register for IWCS 2025</h2>
 
+<p><strong>PLEASE NOTE:</strong> This form is only for on-site attendance. A separate form for online attendance will be provided shortly.
+
 <p><strong>PLEASE NOTE:</strong> We used <a href="https://framaforms.org/" target="_blank" rel="noopener noreferrer">Framaforms</a> to build our registration form because it is open-source and privacy-friendly. However, our form takes its French identity very seriously, so the option to adjust the language of the system messages and the submit button do not seem to work (but everything else does, we tested it). So don't be confused that you have to "Soumettre" your information. Everything else, as you can see below, is in English.</p>
 
 <p><strong>PLEASE NOTE ALSO: </strong> The registration is free of charge. You'll only have to pay for the conference dinner (which will be à la carte).</p>
