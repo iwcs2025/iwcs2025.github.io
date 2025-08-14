@@ -26,7 +26,7 @@ Workshops
 
 <br>
 
-### The Second Workshop on Multimodal Semantic Representations (MMSR II)  
+### The Second Workshop on Multimodal Semantic Representations (MMSR II) (merged with ISA)
 **Organizers:** Richard Brutti, Lucia Donatelli, Nikhil Krishnaswamy, Kenneth Lai, James Pustejovsky
 
 **Website:** <a href="https://mmsr-workshop.github.io/">https://mmsr-workshop.github.io/</a>
