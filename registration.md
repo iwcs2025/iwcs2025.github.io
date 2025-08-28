@@ -1,4 +1,4 @@
-<h2>Register for IWCS 2025</h2>
+<h2>Register for IWCS 2025 (On-site)</h2>
 
 <p><strong>PLEASE NOTE:</strong> This form is only for on-site attendance. A separate form for online attendance will be provided shortly.
 
