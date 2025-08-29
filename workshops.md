@@ -11,7 +11,7 @@ Workshops
 
 <br>
 
-### Semantics for Interdisciplinary Research
+### Semantics for Interdisciplinary Research (<span style="color:red">CANCELED</span>)
 **Organizers:** Maxime Amblard
 
 **Website:** <a href="https://team.inria.fr/semagramme/first-workshop-on-semantics-for-interdisciplinary-research/">https://team.inria.fr/semagramme/first-workshop-on-semantics-for-interdisciplinary-research/</a>
