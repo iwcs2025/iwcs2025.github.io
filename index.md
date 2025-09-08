@@ -35,3 +35,10 @@ News and Updates:
 <!-- <br> -->
 
 <!-- <img src="hhu-logo.png" alt="HHU Logo" style="max-width: 45%; height: auto; display: block; margin-left: auto"> -->
+
+<footer style="text-align: center; padding: 20px; font-size: 0.9em; color: #555;">
+  <p>
+    <a href="https://www.aclweb.org/adminwiki/index.php/Anti-Harassment_Policy" target="_blank" rel="noopener noreferrer">Code of Conduct / Anti-Harassment Policy</a>
+  </p>
+</footer>
+
