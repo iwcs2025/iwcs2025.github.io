@@ -101,7 +101,7 @@
 
     - ProPara-CRTS: Canonical Referent Tracking for Reliable Evaluation of Entity State Tracking in Process Narratives (Bingyang Ye, Timothy Obiso, Jingxuan Tu, James Pustejovsky)  
     - Does discourse structure help action prediction? A look at Correction Triangles. (Kate Thompson, Akshay Chaturvedi, Nicholas Asher)  
-    - Learning to Refer: How Scene Complexity Affects Emergent Communication in Neural Agents (Dominik Künkele)  
+    - Learning to Refer: How Scene Complexity Affects Emergent Communication in Neural Agents (Dominik Künkele, Simon Dobnik)  
     - A Graph Autoencoder Approach for Gesture Classification with Gesture AMR (Huma Jamil, Ibrahim Khebour, Kenneth Lai, James Pustejovsky, Nikhil Krishnaswamy)  
 
 - **16:30 – 17:30 | Level -1**  
