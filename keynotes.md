@@ -9,6 +9,14 @@ Oana-Maria Camburu (Imperial College London)
 
 Oana-Maria Camburu is an Assistant Professor in the Department of Computing at Imperial College London. Prior to that, she was a Principal Research Fellow in the Department of Computer Science at the University College London, holding an Early Career Leverhulme Fellowship. Oana was also a postdoc at the University of Oxford, from where she obtained her PhD in "Explaining Deep Neural Networks". Her main research interests lie in explainability for deep learning models and AI safety and alignment. 
 
+<br>
+
+**Title**: _Thoughts You Can Trust? Evaluating the Faithfulness of  Model-Generated Explanations and Their Effects on Human Performance_
+
+<br>
+
+**Abstract**: Large Language Models (LLMs) can readily generate natural language explanations—or chain-of-thoughts (CoTs)—to justify their outputs. In this talk, I will first introduce methods for evaluating whether such explanations faithfully reflect the decision-making processes of the models that produce them. Second, I present the results of a user study involving 85 clinicians and medical students diagnosing chest X-rays. The study compares the effectiveness of natural language explanations, saliency maps, and their combination in supporting clinical decision-making.
+
 
 <br>
 
