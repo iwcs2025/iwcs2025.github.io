@@ -10,6 +10,9 @@ Oana-Maria Camburu (Imperial College London)
 Oana-Maria Camburu is an Assistant Professor in the Department of Computing at Imperial College London. Prior to that, she was a Principal Research Fellow in the Department of Computer Science at the University College London, holding an Early Career Leverhulme Fellowship. Oana was also a postdoc at the University of Oxford, from where she obtained her PhD in "Explaining Deep Neural Networks". Her main research interests lie in explainability for deep learning models and AI safety and alignment. 
 
 <br>
+<br>
+<br>
+<br>
 
 **Title**: _Thoughts You Can Trust? Evaluating the Faithfulness of  Model-Generated Explanations and Their Effects on Human Performance_
 
