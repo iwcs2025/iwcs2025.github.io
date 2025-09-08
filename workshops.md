@@ -4,7 +4,7 @@ Workshops
 <br>
 
 ### Bridges and Gaps between Formal and Computational Linguistics (BriGap2)
-**Organizers:** Timothée Bernard, Timothee Mickus, Grégoire Winterstein
+**Organizers:** Timothée Bernard, Timothee Mickus
 
 **Website:** <a href="https://brigap-workshop.github.io/">https://brigap-workshop.github.io/</a>
 
