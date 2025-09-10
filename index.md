@@ -11,10 +11,10 @@ IWCS 2025 is financially supported by the Heinrich-Heine-Universität Düsseldor
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <!-- Left Logo -->
-  <img src="dfg_logo_englisch_blau_en.jpg" alt="DFG Logo" style="max-width: 36%; height: auto; display: block; margin-left: auto">
+  <img src="hhu-logo.png" alt="HHU Logo" style="max-width: 36%; height: auto; display: block; margin-left: auto">
 
   <!-- Right Logo -->
-  <img src="hhu-logo.png" alt="HHU Logo" style="max-width: 36%; height: auto; display: block; margin-left: auto">
+  <img src="dfg_logo_englisch_blau_en.jpg" alt="DFG Logo" style="max-width: 36%; height: auto; display: block; margin-left: auto">
 </div>
 
 
