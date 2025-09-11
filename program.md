@@ -47,11 +47,12 @@
     - FRIDA to the Rescue! Analyzing Synthetic Data Effectiveness in Object-Based Common Sense Reasoning for Disaster Response (Mollie Shichman, Claire Bonial, Austin Blodgett, Taylor Pellegrin, Francis Ferraro, Rachel Rudinger)  
 
 - **16:30 – 18:00 | Level -1**  
-  Main session 2 (LLMs and compositionality, hybrid approaches)  
+  Main session 2 (LLMs and compositionality, hybrid approaches)
 
-    - Evaluating Compositional Generalisation in VLMs and Diffusion Models (Beth Pearson, Bilal Boulbarss, Michael Wray, Martha Lewis) (non-archival)
     - Context Effects on the Interpretation of Complement Coercion: A Comparative Study with Language Models in Norwegian (Matteo Radaelli, Emmanuele Chersoni, Alessandro Lenci, Giosuè Baggio)  
-
+    - DisCoCLIP: A Distributional Compositional Tensor Network Encoder for Vision-Language Understanding (Kin Ian Lo, Hala Hawashin, Mina Abbaszadeh, Tilen Limback-Stokin, Hadi Wazni, Mehrnoosh Sadrzadeh) (non-archival)
+    - Evaluating Compositional Generalisation in VLMs and Diffusion Models (Beth Pearson, Bilal Boulbarss, Michael Wray, Martha Lewis) (non-archival)
+    
 - **19:00 – 21:00 | ALEX Düsseldorf, Graf-Adolf-Platz 15, 40213 Düsseldorf**  
   Conference dinner  
 
