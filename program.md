@@ -31,7 +31,8 @@
   Coffee break  
 
 - **15:00 – 16:30 | Level 2**  
-  Poster session 1a (LLMs)    
+  Poster session 1a (LLMs)
+  
     - Can Large Language Models Robustly Perform Natural Language Inference for Japanese Comparatives? (Yosuke Mikami, Daiki Matsuoka, Hitomi Yanaka)  
     - LLMs Struggle with NLI for Perfect Aspect: A Cross-Linguistic Study in Chinese and Japanese (LU JIE, Du Jin, Hitomi Yanaka)  
     - Assessing LLMs' Understanding of Structural Contrasts in the Lexicon (Shuxu LI, Antoine Venant, Philippe Langlais, François Lareau)  
