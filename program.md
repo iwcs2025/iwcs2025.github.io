@@ -1,6 +1,6 @@
 # Conference Program
 
-Proceedings Preview: https://preview.aclanthology.org/iwcs-25-ingestion/volumes/2025.iwcs-1/
+Proceedings Preview: [https://preview.aclanthology.org/iwcs-25-ingestion/volumes/2025.iwcs-1/](https://preview.aclanthology.org/iwcs-25-ingestion/volumes/2025.iwcs-1/)
 
 ## Day 1 — September 22, 2025
 
