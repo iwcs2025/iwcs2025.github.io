@@ -11,7 +11,7 @@ Proceedings Preview: [https://preview.aclanthology.org/iwcs-25-ingestion/volumes
   Opening remarks  
 
 - **09:30 – 10:30 | Level -1**  
-  Invited speaker: Oana-Maria Camburu  
+  Invited speaker: Oana-Maria Camburu - Thoughts You Can Trust? Evaluating the Faithfulness of Model-Generated Explanations and Their Effects on Human Performance
 
 - **10:30 – 11:00 | Level 0**  
   Coffee break  
@@ -27,7 +27,7 @@ Proceedings Preview: [https://preview.aclanthology.org/iwcs-25-ingestion/volumes
   Lunch break  
 
 - **14:00 – 15:00 | Level -1**  
-  Invited speaker: Denis Paperno  
+  Invited speaker: Denis Paperno - Compositionality, Intensionality and LLMs: The Case of the Personal Relations Task 
 
 - **15:00 – 16:30 | Level 0**  
   Coffee break  
@@ -67,7 +67,7 @@ Proceedings Preview: [https://preview.aclanthology.org/iwcs-25-ingestion/volumes
   Registration  
 
 - **09:30 – 10:30 | Level -1**  
-  Invited speaker: Alexander Koller  
+  Invited speaker: Alexander Koller - Solving Complex Problems with Large Language Models
 
 - **10:30 – 11:00 | Level 0**  
   Coffee break  
