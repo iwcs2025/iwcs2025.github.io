@@ -94,7 +94,6 @@ Proceedings Preview: [https://preview.aclanthology.org/iwcs-25-ingestion/volumes
 - **15:00 – 16:30 | Level 2**  
   Poster session 2a (resources)  
 
-    - A German WSC dataset comparing coreference resolution by humans and machines (Wiebke Petersen, Katharina Spalek)  
     - FAMWA: A new taxonomy for classifying word associations (which humans improve at but LLMs still struggle with) (Maria A. Rodriguez, Marie Candito, Richard Huyghe)  
     - Advancing the Database of Cross-Linguistic Colexifications with New Workflows and Data (Annika Tjuka, Robert Forkel, Christoph Rzymski, Johann-Mattis List)  
     - ding-01 :ARG0: An AMR Corpus for Spontaneous French Dialogue (Jeongwoo Kang, Maria Boritchev, Maximin Coavoux)  
@@ -103,6 +102,7 @@ Proceedings Preview: [https://preview.aclanthology.org/iwcs-25-ingestion/volumes
 - **15:00 – 16:30 | Level 3**  
   Poster session 2b (discourse and context)  
 
+    - A German WSC dataset comparing coreference resolution by humans and machines (Wiebke Petersen, Katharina Spalek)  
     - ProPara-CRTS: Canonical Referent Tracking for Reliable Evaluation of Entity State Tracking in Process Narratives (Bingyang Ye, Timothy Obiso, Jingxuan Tu, James Pustejovsky)  
     - Does discourse structure help action prediction? A look at Correction Triangles. (Kate Thompson, Akshay Chaturvedi, Nicholas Asher)  
     - Learning to Refer: How Scene Complexity Affects Emergent Communication in Neural Agents (Dominik Künkele, Simon Dobnik)  
